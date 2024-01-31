@@ -25,6 +25,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>5.5</version> <!-- Use the latest version available -->
+		</dependency>
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>

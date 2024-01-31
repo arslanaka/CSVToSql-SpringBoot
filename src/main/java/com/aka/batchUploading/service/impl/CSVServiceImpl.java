@@ -1,7 +1,5 @@
 package com.aka.batchUploading.service.impl;
 
-import com.aka.batchUploading.entity.Employee;
-import com.aka.batchUploading.repository.EmployeeRepository;
 import com.aka.batchUploading.service.CSVService;
 import com.aka.batchUploading.utils.CSVHelper;
 import org.springframework.beans.factory.annotation.Autowired;
